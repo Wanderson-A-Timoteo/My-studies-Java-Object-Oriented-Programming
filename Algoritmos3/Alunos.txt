@@ -1,0 +1,6 @@
+Nome: João Silva
+RGA: 112233
+Nome: Maria Alves
+RGA: 445566
+Nome: José Souza
+RGA: 10203

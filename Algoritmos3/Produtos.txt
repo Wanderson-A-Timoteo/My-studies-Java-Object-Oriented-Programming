@@ -1,0 +1,9 @@
+Nome: SmartPhone
+Codigo: 100
+Preço: 1499
+Nome: Nootebok
+Codigo: 200
+Preço: 3499
+Nome: Fone de Ouvido
+Codigo: 300
+Preço: 79

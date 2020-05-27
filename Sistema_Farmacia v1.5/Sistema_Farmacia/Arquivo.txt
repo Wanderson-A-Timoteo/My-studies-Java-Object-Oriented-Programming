@@ -1,0 +1,4 @@
+No ano de 1822, foi publicado um artigo científico que prometia revolucionar tudo o
+ que existia até então no ramo do cálculo eletrônico. O seu autor, Charles Babbage, afirmou
+ que sua máquina era capaz de calcular funções de diversas naturezas (trigonometria, logaritmos)
+de forma muito simples. Esse projeto possuía o nome de Máquina de Diferenças.
